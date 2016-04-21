@@ -1,0 +1,53 @@
+/*div {
+	border:1px dotted black;
+
+}
+body {
+	color: #fff;
+	background:#fff;
+}
+.container-fluid {
+	min-height: 1000px;
+}
+.sidebar {
+	display:block;
+	height:1000px;
+	background:#00a85b;
+	padding-top: 15px;
+}
+.navbar-default {
+	background:#00a85b;
+	border:none;
+	color:#fff;
+}
+.navbar {
+	border-radius: 0;
+	margin-bottom:0;
+}
+.main {
+	padding:0;
+}
+.content {
+	border-top-left-radius: 5px;
+	background:#fff;
+	height:1000px;
+}*/
+.top-nav {
+	list-style: none;
+
+}
+.top-nav li {
+	float:left;
+}
+.top-nav li a {
+	text-decoration: none;
+	color:#fff;
+	padding:5px;
+	text-align: center;
+}
+.menu-trigger {
+	margin:10px;
+}
+.p-trigger {
+	float:left;
+}
